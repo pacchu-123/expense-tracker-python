@@ -27,7 +27,7 @@ This project helps users track daily expenses and analyze spending patterns usin
 * Expense distribution (Pie Chart)
 * ## 📊 Visual Output
 
-![Bar Chart](output_images/Bar_graph.png)
+![Bar graph](output_images/Bar_graph.png)
 ![Pie Chart](output_images/Pie_chart.png)
 
 ##  How to Run
